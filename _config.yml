@@ -22,13 +22,13 @@ baseurl: '' # optional
 
 
 # Github username/repo where your code is hosted.
-github: changelogsite/changelog # (required)
+github: changelogsite/other # (required)
 
 # remove this line if don't want to show Github Star Badge
-star-badge: true  #(optional)
+#star-badge: true  #(optional)
 
 # remove this line if don't want to show Github Watch Badge
-watch-badge: true #(optional)
+#watch-badge: true #(optional)
 
 # Show rss feed icon in menubar. To disable this comment below line by adding # as first character.
 rss-feed-icon: true #(optional)
@@ -40,10 +40,10 @@ analytics:  #(recommended)
 # disqus-identifier: changelog-site  # (optional)
 
 # Allow users to comment via facebook
-fb-comment: true
+fb-comment: false
 
 # Allow search engines to index your changelog website
-allow-searchengine: true #optional
+allow-searchengine: false #optional
 
 
 # Do not change anything below this if you don't know Jekyll
