@@ -10,4 +10,7 @@
 
 - name: Improvement
   color: purple
+  
+- name: Important
+  color: red
     
